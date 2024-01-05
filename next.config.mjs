@@ -8,7 +8,6 @@ import remarkMath from "remark-math";
 const nextConfig = {
   reactStrictMode: true,
   experimental: {
-    legacyBrowsers: false,
   },
   trailingSlash: true,
   rewrites() {

@@ -4,6 +4,7 @@
   },
   "usecases": "Use Cases",
   "network-information-configuration": "Network Configuration",
+  "accountmanage": "Create and Manage your Account",
   "build": "Build",
   "node": "Node",
   "learn": "Learn",
